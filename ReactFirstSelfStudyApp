@@ -1,6 +1,10 @@
 
-import React, { Component } from 'react';
+/*--A sample app for understanding of React Component,Specifying Children, Embedding Expressions,Setting Attributes 
+Rendering Classes Dynamically ,Rendering Lists,Conditional Rendering,Handling Events, Binding Event Handlers 
+Updating the State,What Happens When State Changes--*/
 
+
+import React, { Component } from 'react';
 class Counter extends Component {
     state = {
         count: 0,              
